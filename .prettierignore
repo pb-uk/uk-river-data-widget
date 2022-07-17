@@ -1,0 +1,4 @@
+# .prettierignore
+
+# Distribution bundle.
+/dist/

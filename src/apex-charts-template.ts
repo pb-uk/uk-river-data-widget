@@ -1,0 +1,1 @@
+export const apexCharts = '<script>{{ script }}</script>';
